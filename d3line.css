@@ -1,0 +1,16 @@
+.axis path,
+.axis line {
+  stroke: #777;
+}
+
+.axis text {
+  fill: #555;
+}
+
+.trace path {
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #2ecc71;
+}
